@@ -2,12 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3B82F6&center=false&vCenter=false&width=600&lines=Software+Developer;IoT+%26+Hardware+Enthusiast;Photographer+%26+Videography+Founder;Computer+Technology+Student+%40KMITL;FPV+Drone+Pilot+%26+ADV160+Rider)](https://git.io/typing-svg)
 
-<p align="left">
-  ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=3B82F6&style=flat-square&label=PROFILE+VIEWS)
-  &nbsp;
-  [![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
-
 Welcome to my GitHub! I'm a Computer Technology student at **KMITL** who loves bridging the gap between lines of code, physical electronics, and cinematic visuals. I enjoy building things, debugging, and exploring new technologies, from full-stack web apps to IoT hardware.
 
 When I'm not programming or building smart systems, I'm flying FPV drones, working on 3D printing, or riding my ADV160! 🏍️💨
@@ -49,8 +43,9 @@ When I'm not programming or building smart systems, I'm flying FPV drones, worki
 ### 📫 Let's Connect!
 
 <p align="left">
-<a href="https://github.com/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="POKOMAN" height="30" width="40" /></a>
-<a href="https://www.facebook.com/hiwmakmakkub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hiwmakmakkub" height="30" width="40" /></a>
+<a href="[https://github.com/your-username](https://github.com/poko56)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="[https://www.facebook.com/hiwmakmakkub](https://www.facebook.com/pkm.junior.39)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pokomankrub/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 <br/>
