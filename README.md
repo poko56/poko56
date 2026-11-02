@@ -41,13 +41,6 @@
   <a href="https://github.com/poko56/ZipZap"><img src="assets/card-zip.svg" width="49%" alt="ZipZap: AI file organizer that reads and renames files with Gemini." /></a>
 </p>
 
-<img src="assets/h-bench.svg" width="100%" alt="From the Bench" />
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/poko56/PCB_33KV/HEAD/PCB/3D_PCB.png" alt="33kV monitor PCB render" width="49%" />
-  <img src="https://raw.githubusercontent.com/poko56/SM_HVD-Hotel-Power-Monitoring/HEAD/image/PCB_3.png" alt="Hotel power monitoring 12-node PCB panel" width="49%" />
-</p>
-
 <img src="assets/h-tools.svg" width="100%" alt="Toolbox" />
 
 <p align="center">
