@@ -14,11 +14,13 @@
 
 <table>
   <tr>
-    <td align="center" width="33%"><img src="assets/boards/devboard.jpg" height="240" alt="PKT ESP32 Dev Board" /><br /><b>PKT ESP32 Dev Board</b><br /><sub>ESP32-WROOM-32E, USB-C, 29 × 54.6 mm<br />Gerber ready, not yet tested on real hardware</sub></td>
-    <td align="center" width="33%"><img src="assets/boards/c3-mini.jpg" height="240" alt="PKT ESP32-C3 Mini" /><br /><b>PKT ESP32-C3 Mini</b><br /><sub>ESP32-C3-MINI-1, USB-C, 20 × 34 mm<br />JLCPCB files ready, not yet tested on real hardware</sub></td>
-    <td align="center" width="33%"><img src="assets/boards/arm-controller.jpg" width="100%" alt="PKT Robot Arm Controller, component placement" /><br /><b>PKT Robot Arm Controller</b><br /><sub>5-axis servo control, fail-safe E-stop<br />Work in progress: placement only, routing not finished</sub></td>
+    <td align="center" width="33%"><a href="https://github.com/poko56/PKT-Boards/tree/main/esp32-devboard"><img src="assets/boards/devboard.jpg" height="240" alt="PKT ESP32 Dev Board" /></a><br /><b><a href="https://github.com/poko56/PKT-Boards/tree/main/esp32-devboard">PKT ESP32 Dev Board</a></b><br /><sub>ESP32-WROOM-32E, USB-C, 29 × 54.6 mm<br />Gerber ready, not yet tested on real hardware</sub></td>
+    <td align="center" width="33%"><a href="https://github.com/poko56/PKT-Boards/tree/main/esp32c3-mini"><img src="assets/boards/c3-mini.jpg" height="240" alt="PKT ESP32-C3 Mini" /></a><br /><b><a href="https://github.com/poko56/PKT-Boards/tree/main/esp32c3-mini">PKT ESP32-C3 Mini</a></b><br /><sub>ESP32-C3-MINI-1, USB-C, 20 × 34 mm<br />JLCPCB files ready, not yet tested on real hardware</sub></td>
+    <td align="center" width="33%"><a href="https://github.com/poko56/PKT-Boards/tree/main/esp32-arm-controller"><img src="assets/boards/arm-controller.jpg" width="100%" alt="PKT Robot Arm Controller, component placement" /></a><br /><b><a href="https://github.com/poko56/PKT-Boards/tree/main/esp32-arm-controller">PKT Robot Arm Controller</a></b><br /><sub>5-axis servo control, fail-safe E-stop<br />Work in progress: placement only, routing not finished</sub></td>
   </tr>
 </table>
+
+<p align="center"><a href="https://github.com/poko56/PKT-Boards">All KiCad files, Gerbers and docs in PKT-Boards</a></p>
 
 <img src="assets/h-projects.svg" width="100%" alt="Featured Builds" />
 
