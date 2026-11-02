@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="230" viewBox="0 0 590 230" role="img" aria-label="33kV Monitor: Precision leakage current sensing for high-voltage, high-noise sites.">
+<style>
+text{font-family:'JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace}
+.tr{fill:none;stroke:#14507c;stroke-width:2.5;stroke-linejoin:round}
+.pu{fill:none;stroke:#5fc4ee;stroke-width:3;stroke-linecap:round;stroke-dasharray:26 900;animation:run var(--t,4s) linear infinite;animation-delay:var(--d,0s);filter:drop-shadow(0 0 5px #5fc4ee)}
+.via{fill:#06121d;stroke:#f5c451;stroke-width:2.5}
+@keyframes run{from{stroke-dashoffset:926}to{stroke-dashoffset:0}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:.12}}
+@keyframes breathe{0%,100%{opacity:.35}50%{opacity:1}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes ping{0%{transform:scale(.15);opacity:1}100%{transform:scale(1);opacity:0}}
+@keyframes slide{to{transform:translateX(-120px)}}
+@keyframes rise{0%{transform:translateY(0);opacity:0}20%{opacity:1}100%{transform:translateY(-92px);opacity:0}}
+@keyframes drop{0%{transform:translateX(-70px);opacity:0}25%,70%{transform:translateX(0);opacity:1}100%{transform:translateX(0) scale(.2);opacity:0}}
+@keyframes type{from{width:0}to{width:560px}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+@keyframes slide{to{transform:translateX(-65px)}}</style>
+<rect width="590" height="230" rx="14" fill="#0a1c2c" stroke="#14507c" stroke-width="2"/>
+<circle class="via" cx="14" cy="14" r="4"/>
+<circle class="via" cx="576" cy="14" r="4"/>
+<circle class="via" cx="14" cy="216" r="4"/>
+<circle class="via" cx="576" cy="216" r="4"/>
+<text x="34" y="50" fill="#f5c451" font-size="14" font-weight="700">U3</text>
+<text x="34" y="90" fill="#e8f4fc" font-size="30" font-weight="800">33kV Monitor</text>
+<text x="34" y="124" fill="#a9c3d6" font-size="15">Precision leakage current sensing for</text>
+<text x="34" y="146" fill="#a9c3d6" font-size="15">high-voltage, high-noise sites.</text>
+<rect x="34" y="184" width="82" height="26" rx="5" fill="#0d2233" stroke="#14507c"/>
+<text x="43" y="202" fill="#5fc4ee" font-size="13">ESP32-C3</text>
+<rect x="124" y="184" width="66" height="26" rx="5" fill="#0d2233" stroke="#14507c"/>
+<text x="133" y="202" fill="#5fc4ee" font-size="13">Op-Amp</text>
+<rect x="198" y="184" width="42" height="26" rx="5" fill="#0d2233" stroke="#14507c"/>
+<text x="207" y="202" fill="#5fc4ee" font-size="13">PCB</text>
+<g transform="translate(415 10)"><rect x="8" y="35" width="134" height="140" rx="6" fill="#0d2233" stroke="#14507c"/><path d="M8 105H142M75 35V175" stroke="#14507c"/><clipPath id="k"><rect x="10" y="37" width="130" height="136"/></clipPath><g clip-path="url(#k)"><path d="M10,105.0 13,117.6 16,129.1 19,138.6 22,145.3 25,148.7 28,148.4 31,144.4 34,137.2 37,127.3 40,115.5 43,102.9 46,90.4 49,79.1 52,70.0 55,63.9 58,61.1 61,62.0 64,66.5 67,74.3 70,84.6 73,96.5 76,109.2 79,121.6 82,132.6 85,141.2 88,146.8 91,149.0 94,147.5 97,142.4 100,134.2 103,123.5 106,111.4 109,98.6 112,86.5 115,75.8 118,67.6 121,62.5 124,61.0 127,63.2 130,68.8 133,77.4 136,88.4 139,100.8 142,113.5 145,125.4 148,135.7 151,143.5 154,148.0 157,148.9 160,146.1 163,140.0 166,130.9 169,119.6 172,107.1 175,94.5 178,82.7 181,72.8 184,65.6 187,61.6 190,61.3 193,64.7 196,71.4 199,80.9 202,92.4 205,105.0 208,117.6 211,129.1 214,138.6 217,145.3 220,148.7 223,148.4 226,144.4 229,137.2 232,127.3 235,115.5 238,102.9 241,90.4 244,79.1 247,70.0 250,63.9 253,61.1 256,62.0 259,66.5 262,74.3 265,84.6 268,96.5" fill="none" stroke="#f5c451" stroke-width="3" style="animation:slide 2s linear infinite"/></g></g>
+</svg>
