@@ -10,6 +10,16 @@
 
 <p align="center"><img src="assets/chain.svg" width="100%" alt="Schematic, PCB, firmware, cloud, dashboard" /></p>
 
+<img src="assets/h-boards.svg" width="100%" alt="PKT Boards" />
+
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="assets/boards/devboard.jpg" height="240" alt="PKT ESP32 Dev Board" /><br /><b>PKT ESP32 Dev Board</b><br /><sub>ESP32-WROOM-32E, USB-C, 29 × 54.6 mm<br />Gerber ready, not yet tested on real hardware</sub></td>
+    <td align="center" width="33%"><img src="assets/boards/c3-mini.jpg" height="240" alt="PKT ESP32-C3 Mini" /><br /><b>PKT ESP32-C3 Mini</b><br /><sub>ESP32-C3-MINI-1, USB-C, 20 × 34 mm<br />JLCPCB files ready, not yet tested on real hardware</sub></td>
+    <td align="center" width="33%"><img src="assets/boards/arm-controller.jpg" width="100%" alt="PKT Robot Arm Controller, component placement" /><br /><b>PKT Robot Arm Controller</b><br /><sub>5-axis servo control, fail-safe E-stop<br />Work in progress: placement only, routing not finished</sub></td>
+  </tr>
+</table>
+
 <img src="assets/h-projects.svg" width="100%" alt="Featured Builds" />
 
 <p align="center">
